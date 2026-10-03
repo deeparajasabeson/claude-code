@@ -1,3 +1,12 @@
+To run it locally, start the API with 
+dotnet run --project src/InterviewPrep.Api
+,then run 
+npm install && npm run dev 
+in 
+src/interview-prep-web 
+and open 
+http://localhost:5173
+
 # The Interview Companion
 
 An interview-preparation app designed like a book in shades of purple and white. It is based on the *Technical Interview Practice: Claude Code · Agentic AI · .NET · Azure* guide and has three chapters with **20 questions and model answers each**:
