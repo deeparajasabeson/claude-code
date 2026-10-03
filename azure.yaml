@@ -1,0 +1,9 @@
+# Azure Developer CLI: `azd up` provisions infra/ and deploys the app.
+name: interview-companion
+metadata:
+  template: interview-companion@1.0.0
+services:
+  web:
+    project: ./src/InterviewPrep.Api
+    language: dotnet
+    host: appservice
