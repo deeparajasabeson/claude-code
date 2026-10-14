@@ -1,3 +1,4 @@
+<img width="5952" height="8203" alt="diagram (2)" src="https://github.com/user-attachments/assets/1a07fa8b-1248-4740-a224-445ab0eee5c7" />
 To run it locally, start the API with 
 dotnet run --project src/InterviewPrep.Api
 ,then run 
